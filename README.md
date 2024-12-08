@@ -105,7 +105,8 @@ A **Pygame-based simulation environment** is developed to test the robot's adapt
 - **Aman Patel**
 - **Arpit Verma**
 - **Priyanshu Chhabda**
-- *BTech in Computer Science Engineering, IIIT Nagpur*
+
+*BTech in Computer Science Engineering, IIIT Nagpur*
 
 ---
 
