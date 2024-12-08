@@ -1,0 +1,9 @@
+{
+    "transformer_nhead": 8,
+    "hidden_multiplier": 36,
+    "transformer_num_layers": 3,
+    "learning_rate": 0.0008872725458755013,
+    "gamma": 0.946121556627252,
+    "epsilon_decay": 0.9262905207794866,
+    "use_prioritized_replay": false
+}

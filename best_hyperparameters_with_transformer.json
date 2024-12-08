@@ -1,0 +1,8 @@
+{
+    "transformer_nhead": 4,
+    "hidden_multiplier": 50,
+    "transformer_num_layers": 3,
+    "learning_rate": 0.005648845186905458,
+    "gamma": 0.9711609429910004,
+    "epsilon_decay": 0.9310618812609859
+}
