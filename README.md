@@ -101,7 +101,10 @@ A **Pygame-based simulation environment** is developed to test the robot's adapt
 ---
 
 ## Contributors
-- **Sabu**  
+- **Raj Sundaram**
+- **Aman Patel**
+- **Arpit Verma**
+- **Priyanshu Chhabda**
   *BTech in Computer Science Engineering, IIIT Nagpur*
 
 ---
