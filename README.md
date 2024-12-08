@@ -4,7 +4,7 @@
 ## Overview
 This project implements a **Deep Q-Learning (DQN)** model for adaptive robot path planning in dynamic grid-based environments. The model is enhanced with **Transformer architecture** and **positional encoding**, enabling improved spatial awareness and decision-making. It incorporates advanced reinforcement learning techniques like **Prioritized Replay Buffer** to optimize training and efficiency.
 
-A **Pygame-based simulation environment** is developed to test the robot's adaptability in scenarios involving dynamic and static obstacles. The project demonstrates how reinforcement learning can be applied to real-world challenges in navigation and robotics.
+A **Pygame-based simulation environment** is developed to test the robot's adaptability in dynamic and static obstacles scenarios. The project demonstrates how reinforcement learning can be applied to real-world challenges in navigation and robotics.
 
 ---
 
@@ -105,7 +105,7 @@ A **Pygame-based simulation environment** is developed to test the robot's adapt
 - **Aman Patel**
 - **Arpit Verma**
 - **Priyanshu Chhabda**
-  *BTech in Computer Science Engineering, IIIT Nagpur*
+- *BTech in Computer Science Engineering, IIIT Nagpur*
 
 ---
 
