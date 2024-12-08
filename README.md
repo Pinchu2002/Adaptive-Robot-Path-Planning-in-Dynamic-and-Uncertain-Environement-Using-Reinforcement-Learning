@@ -4,7 +4,7 @@
 ## Overview
 This project implements a **Deep Q-Learning (DQN)** model for adaptive robot path planning in dynamic grid-based environments. The model is enhanced with **Transformer architecture** and **positional encoding**, enabling improved spatial awareness and decision-making. It incorporates advanced reinforcement learning techniques like **Prioritized Replay Buffer** to optimize training and efficiency.
 
-A **Pygame-based simulation environment** is developed to test the robot's adaptability in dynamic and static obstacles scenarios. The project demonstrates how reinforcement learning can be applied to real-world challenges in navigation and robotics.
+A **Pygame-based simulation environment** is developed to test the robot's adaptability in dynamic and static obstacle scenarios. The project demonstrates how reinforcement learning can be applied to real-world challenges in navigation and robotics.
 
 ---
 
@@ -60,7 +60,7 @@ A **Pygame-based simulation environment** is developed to test the robot's adapt
    - Compared performance metrics with and without Transformer integration.
 
 3. **Simulation Environment**:
-   - Obstacles move dynamically in the environment, and the robot adjusts its path in real-time.
+   - Obstacles move dynamically in the environment, and the robot adjusts its path in real time.
    - The simulation visualizes robot movements and highlights the shortest path to the goal.
 
 4. **Hyperparameter Optimization**:
@@ -98,6 +98,8 @@ A **Pygame-based simulation environment** is developed to test the robot's adapt
 ### With Transformer
 ![With Transformer](Figure_2.png)
 
+### Pygame Simulation
+![Simulation](https://github.com/user-attachments/assets/122b42ac-dfd1-4f87-8bcf-800ee1565aa9)
 ---
 
 ## Contributors
