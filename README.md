@@ -103,7 +103,7 @@ A **Pygame-based simulation environment** is developed to test the robot's adapt
 ---
 
 ## Contributors
-- ![Raj Sundaram]()
+- ![Raj Sundram]()
 - ![Aman Patel]()
 - ![Arpit Verma](https://github.com/hawk-pro)
 - ![Priyanshu Chhabda](https://github.com/Pinchu2002)
